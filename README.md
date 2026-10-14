@@ -1,129 +1,112 @@
-```markdown
 <div align="center">
+  
+  <!-- Banner / Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar;Full-Stack+Developer+%26+AI+Engineer;Passionate+about+LLMs+%26+Deep+Learning;Always+learning+%26+building" alt="Typing SVG" />
 
-# `>_` SHIVAM KUMAR
+  <br><br>
 
-### Full-Stack Developer | AI Engineer
+  <img src="https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <br><br>
 
-**BUILDING • LEARNING • EXPERIMENTING**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/shivamkumar98017)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-kumar-b24677431)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:shivamk344442@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&style=flat-square&color=8B5CF6)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar98017&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophy" />
+  </a>
 
 </div>
 
 ---
 
-## `01` // SYSTEM PROFILE
+### 👨‍💻 About Me
 
-```text
-USER       : Shivam Kumar
-ROLE       : Full-Stack Developer / AI Engineer
-LOCATION   : India
-LEARNING   : Agentic AI
-INTERESTS  : Python, SQL, Data Analysis, Artificial Intelligence
-STATUS     : Always Learning
-```
+I'm a passionate **Full-Stack Developer** and **AI/ML Engineer** from Motihari, Bihar (India).  
+I love building things with code and exploring the world of **LLMs, Deep Learning, and Agentic AI**.
 
-- 🔭 Currently working on [SQL](https://github.com/shivamkumar98017/SQL)
-- 🌱 Learning **Agentic AI**
-- 🤝 Interested in Python, NumPy, Pandas and AI projects
-- ⚡ Lifelong learner who enjoys building useful things
+- 🔭 Currently working on **SQL**, **Pandas EDA**, and **AI Foundations**
+- 🌱 Currently learning **Agentic AI** & advanced **Deep Learning**
+- 👯 Looking to collaborate on **AI/ML projects** and **open-source**
+- 💬 Ask me about **Python, PyTorch, React, Next.js, Full-Stack Development**
+- 📫 Reach me at: **shivamk34442@gmail.com**
+- ⚡ Fun fact: I'm a lifelong learner who loves turning ideas into reality
 
 ---
 
-## `02` // TECH STACK
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,express,nestjs,mysql,git,github,pytorch,tensorflow&theme=dark" alt="Tech stack" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) | Advanced Python concepts for building strong AI/ML foundations | Jupyter, Python |
+| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice: cleaning, GroupBy, joins & real-world EDA | Pandas, Python |
+| [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, broadcasting & matrix operations | NumPy |
+| [**SQL**](https://github.com/shivamkumar98017/SQL) | Practice repo for SELECT, JOIN, GROUP BY, and advanced SQL queries | SQL |
+| [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential) | Beginner to intermediate Python practice notebooks (Google Colab) | Python |
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,nestjs,js,html,css,mysql,git,github" />
 </p>
 
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-  ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-  ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
-  ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,react,nextjs,vscode,linux" />
 </p>
 
 ---
 
-## `03` // FEATURED PROJECTS
+### 🔗 Connect with me
 
-<p align="center">
-  <a href="https://github.com/shivamkumar98017/SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=SQL&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE" alt="SQL" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivam-kumar-b24677431" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shivamkumar98017/numpy-playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=numpy-playground&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE" alt="NumPy Playground" />
+  <a href="https://instagram.com/shivamkumar98017" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/shivamkumar98017/Pandas-EDA-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=Pandas-EDA-Practice&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE" alt="Pandas EDA Practice" />
+  <a href="https://github.com/shivamkumar98017" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shivamk34442@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-**[→ Explore all repositories](https://github.com/shivamkumar98017?tab=repositories)**
-
 ---
 
-## `04` // GITHUB ANALYTICS
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9" height="170" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170" alt="Top languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkumar98017&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkumar98017&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkumar98017&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkumar98017&theme=tokyonight" />
 </div>
 
----
-
-## `05` // CONTRIBUTION STREAK
+<br>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C9D1D9" alt="Contribution streak" width="75%" />
-
+  <i>Thanks for visiting! Feel free to star ⭐ my repositories if you find them useful.</i>
 </div>
-
----
-
-## `06` // CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-</div>
-
----
-
-## `07` // GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivamkumar98017&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" width="100%" />
-
-</div>
-
----
-
-## `08` // CONNECT
-
-- 🐙 GitHub: [shivamkumar98017](https://github.com/shivamkumar98017)
-- 💼 LinkedIn: [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-b24677431)
-- 📧 Email: [shivamk344442@gmail.com](mailto:shivamk344442@gmail.com)
-
-<div align="center">
-
-```text
-[ STATUS: ONLINE ]
-Keep shipping. Keep learning. Keep building.
-```
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
-```
