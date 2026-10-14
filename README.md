@@ -1,42 +1,131 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate full-stuck developer and AI Engineer from India.</h3>
+```markdown
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar98017" /> </p>
+# 👋 Hi, I'm Shivam Kumar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar98017" alt="shivamkumar98017" /></a> </p>
+### 💻 Full-Stack Developer | 🤖 AI Engineer | 📊 Data Science Enthusiast
 
-- 🔭 I’m currently working on [SQL](https://github.com/shivamkumar98017/SQL.git)
+Building projects, exploring AI, and learning something new every day.
 
-- 🌱 I’m currently learning **Agentic AI**
+[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?style=for-the-badge&logo=github&color=181717)](https://github.com/shivamkumar98017)
+[![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&style=for-the-badge&color=blueviolet)](https://github.com/shivamkumar98017)
 
-- 👯 I’m looking to collaborate on [Numpy](https://github.com/shivamkumar98017/numpy-playground.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/shivamkumar98017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam-kumar-b24677431)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivamk344442@gmail.com)
 
-- 🤝 I’m looking for help with [Pandas](https://github.com/shivamkumar98017/Pandas-EDA-Practice.git)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivamkumar98017](https://github.com/shivamkumar98017)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shivam-kumar-b24677431](https://www.linkedin.com/in/shivam-kumar-b24677431)
+## 🚀 About Me
 
-- 💬 Ask me about **Full-Stuck developer and AI Engineer**
+- 🔭 Currently working on **SQL**
+- 🌱 Currently learning **Agentic AI**
+- 💻 Interested in **Full-Stack Development and AI Engineering**
+- 📊 Exploring **Python, NumPy, Pandas, and Data Analysis**
+- 🤝 Open to collaboration on interesting projects
+- ⚡ Fun fact: I'm a lifelong learner!
 
-- 📫 How to reach me **shivamk344442@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/shivamkumar98017](https://github.com/shivamkumar98017)
+## 🛠️ Languages and Tools
 
-- ⚡ Fun fact **i am a life long learner.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-b24677431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-b24677431" height="30" width="40" /></a>
-<a href="https://instagram.com/shivamkumar98017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamkumar98017" height="30" width="40" /></a>
-<a href="https://discord.gg/shivam004698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shivam004698" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,express,nestjs,mysql,git,github,pytorch,tensorflow" alt="Technologies and tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkumar98017&show_icons=true&locale=en&layout=compact" alt="shivamkumar98017" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&locale=en" alt="shivamkumar98017" /></p>
+## 📌 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar98017&" alt="shivamkumar98017" /></p>
+<div align="center">
+
+<a href="https://github.com/shivamkumar98017/SQL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=SQL&theme=tokyonight&hide_border=true" alt="SQL Project" />
+</a>
+
+<a href="https://github.com/shivamkumar98017/numpy-playground">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=numpy-playground&theme=tokyonight&hide_border=true" alt="NumPy Playground" />
+</a>
+
+<a href="https://github.com/shivamkumar98017/Pandas-EDA-Practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkumar98017&repo=Pandas-EDA-Practice&theme=tokyonight&hide_border=true" alt="Pandas EDA Practice" />
+</a>
+
+</div>
+
+🔗 **[Explore all my repositories →](https://github.com/shivamkumar98017?tab=repositories)**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivamkumar98017&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shivamkumar98017)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-kumar-b24677431)
+
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamk344442@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Stay curious. Keep building. Never stop learning."
+
+⭐ If you find my work interesting, feel free to explore my repositories!
+
+</div>
+```
