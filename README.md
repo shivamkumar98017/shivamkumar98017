@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar;Full-Stack+Developer+%26+AI%2FML+Engineer;Passionate+about+LLMs+%26+Deep+Learning;Building+cool+stuff+every+day;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar;AI%2FML+Engineer+%26+Cybersecurity+Enthusiast;LLMs+%E2%80%A2+Deep+Learning+%E2%80%A2+Penetration+Testing;Building+secure+%26+intelligent+systems;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br>
 
@@ -19,16 +19,17 @@
 
 ### 👨‍💻 About Me
 
-I'm **Shivam Kumar**, a passionate **Full-Stack Developer** and **AI/ML Engineer** from Motihari, Bihar (India).
+I'm **Shivam Kumar**, a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** from Motihari, Bihar (India).
 
-I love building real-world projects and exploring the world of **LLMs, Deep Learning, and Agentic AI**.
+I have completed intensive upskilling programs in **AI & Machine Learning** and **Cyber Security with AI**, focusing on building intelligent systems and securing them.
 
-- 🔭 Currently working on **SQL**, **Pandas EDA** & **AI Foundations**
-- 🌱 Currently learning **Agentic AI** and advanced **Deep Learning**
-- 👯 Looking to collaborate on **AI/ML** and **Full-Stack** projects
-- 💬 Ask me about **Python, PyTorch, React, Next.js, Node.js**
+- 🔭 Completed **AI & Machine Learning** (Python, SQL, NumPy, Pandas, Classical ML, Deep Learning, GenAI, RAG & Agents)
+- 🛡️ Completed **Cyber Security with AI** (Networking, Linux, Web App Security, OWASP, Burp Suite, Recon, Penetration Testing)
+- 🌱 Currently exploring **Agentic AI**, **LLM Security**, and advanced **Penetration Testing**
+- 👯 Looking to collaborate on **AI/ML**, **Cybersecurity**, and **Full-Stack** projects
+- 💬 Ask me about **Python, PyTorch, React, Next.js, Burp Suite, Nmap, OWASP Top 10**
 - 📫 Reach me: **shivamk34442@gmail.com**
-- ⚡ Fun fact: Lifelong learner who turns ideas into code
+- ⚡ Fun fact: Lifelong learner who turns ideas into secure & intelligent code
 
 ---
 
@@ -56,21 +57,35 @@ I love building real-world projects and exploring the world of **LLMs, Deep Lear
 
 ### 🏆 Featured Projects
 
-|                                       Project                                      |                            Description                            |    Tech Stack   |
-| :--------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :-------------: |
-| [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) |   Advanced Python concepts for building strong AI/ML foundations  | Python, Jupyter |
-| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) |     Hands-on Pandas practice with real-world EDA case studies     |  Pandas, Python |
-|    [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground)    |   NumPy playground for arrays, broadcasting & matrix operations   |      NumPy      |
-|                 [**SQL**](https://github.com/shivamkumar98017/SQL)                 | Practice repository for SELECT, JOIN, GROUP BY & advanced queries |       SQL       |
-|    [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential)    |         Beginner to intermediate Python practice notebooks        |      Python     |
+| Project | Description | Tech Stack |
+| :-----: | :---------: | :--------: |
+| [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) | Advanced Python concepts for building strong AI/ML foundations | Python, Jupyter |
+| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice with real-world EDA case studies | Pandas, Python |
+| [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, broadcasting & matrix operations | NumPy |
+| [**ecommerce-sql-analysis**](https://github.com/shivamkumar98017/ecommerce-sql-analysis) | SQL Analytics Project – JOINs, GROUP BY, Subqueries & more | SQL |
+| [**Data-Analyst**](https://github.com/shivamkumar98017/Data-Analyst) | Complete Data Analyst practice path (NumPy + Pandas + SQL) | Python, SQL |
+| [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential) | Beginner to intermediate Python practice notebooks | Python |
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,js,html,css,mysql,git,github,react,nextjs,vscode,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,js,html,css,mysql,git,github,react,nextjs,vscode,linux,bash&perline=8" />
 </p>
+
+**Cybersecurity & Security Tools**  
+`Burp Suite` · `Nmap` · `Wireshark` · `Metasploit` · `OWASP ZAP` · `Kali Linux` · `Hashcat` · `John the Ripper` · `SQLMap` · `Frida`
+
+**AI / ML**  
+`PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` · `RAG` · `LangChain` · `Prompt Engineering` · `LLMs`
+
+---
+
+### 🎓 Courses Completed
+
+- **AI & Machine Learning** (Earners Upskilling Program) – Python → SQL → NumPy → Pandas → Classical ML → Deep Learning → GenAI → RAG & Agents
+- **Cyber Security with AI** – Networking, Linux, Web App Security, OWASP Top 10, Recon, Penetration Testing, Burp Suite, Mobile Security & more
 
 ---
 
