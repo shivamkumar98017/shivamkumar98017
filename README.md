@@ -59,6 +59,7 @@ I have completed intensive upskilling programs in **AI & Machine Learning** and 
 
 | Project | Description | Tech Stack |
 | :-----: | :---------: | :--------: |
+| [**Cyber-Security-with-AI**](https://github.com/shivamkumar98017/Cyber-Security-with-AI) | Cyber Security labs, notes & practice – Networking, OWASP, Burp Suite, Pentesting | Security, Linux |
 | [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) | Advanced Python concepts for building strong AI/ML foundations | Python, Jupyter |
 | [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice with real-world EDA case studies | Pandas, Python |
 | [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, broadcasting & matrix operations | NumPy |
