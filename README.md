@@ -26,8 +26,8 @@ I have completed intensive upskilling programs in **AI & Machine Learning** and 
 - 🔭 Completed **AI & Machine Learning** (Python, SQL, NumPy, Pandas, Classical ML, Deep Learning, GenAI, RAG & Agents)
 - 🛡️ Completed **Cyber Security with AI** (Networking, Linux, Web App Security, OWASP, Burp Suite, Recon, Penetration Testing)
 - 🌱 Currently exploring **Agentic AI**, **LLM Security**, and advanced **Penetration Testing**
-- 👯 Looking to collaborate on **AI/ML**, **Cybersecurity**, and **Full-Stack** projects
-- 💬 Ask me about **Python, PyTorch, React, Next.js, Burp Suite, Nmap, OWASP Top 10**
+- 👯 Looking to collaborate on **AI/ML** and **Cybersecurity** projects
+- 💬 Ask me about **Python, PyTorch, Burp Suite, Nmap, OWASP Top 10, RAG, LLMs**
 - 📫 Reach me: **shivamk34442@gmail.com**
 - ⚡ Fun fact: Lifelong learner who turns ideas into secure & intelligent code
 
@@ -71,7 +71,7 @@ I have completed intensive upskilling programs in **AI & Machine Learning** and 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,js,html,css,mysql,git,github,react,nextjs,vscode,linux,bash&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,git,github,vscode,linux,bash&perline=9" />
 </p>
 
 **Cybersecurity & Security Tools**  
