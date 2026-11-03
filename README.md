@@ -59,13 +59,11 @@ I have completed intensive upskilling programs in **AI & Machine Learning** and 
 
 | Project | Description | Tech Stack |
 | :-----: | :---------: | :--------: |
-| [**Cyber-Security-with-AI**](https://github.com/shivamkumar98017/Cyber-Security-with-AI) | Cyber Security labs, notes & practice – Networking, OWASP, Burp Suite, Pentesting | Security, Linux |
 | [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) | Advanced Python concepts for building strong AI/ML foundations | Python, Jupyter |
-| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice with real-world EDA case studies | Pandas, Python |
-| [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, broadcasting & matrix operations | NumPy |
-| [**ecommerce-sql-analysis**](https://github.com/shivamkumar98017/ecommerce-sql-analysis) | SQL Analytics Project – JOINs, GROUP BY, Subqueries & more | SQL |
-| [**Data-Analyst**](https://github.com/shivamkumar98017/Data-Analyst) | Complete Data Analyst practice path (NumPy + Pandas + SQL) | Python, SQL |
-| [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential) | Beginner to intermediate Python practice notebooks | Python |
+| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice with data loading, cleaning, GroupBy, joins & EDA case studies | Pandas, Python |
+| [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, slicing, broadcasting & matrix operations | NumPy |
+| [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential) | Beginner to intermediate Python practice notebooks & projects | Python |
+| [**SQL**](https://github.com/shivamkumar98017/SQL) | SQL practice – SELECT, JOINs, GROUP BY, Subqueries & more | SQL |
 
 ---
 
