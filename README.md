@@ -1,71 +1,87 @@
 <div align="center">
-  
-  # 👋 Hi, I'm **Shivam Kumar**
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Cybersecurity+Enthusiast;Python+%7C+PyTorch+%7C+Deep+Learning;LLMs+%7C+Data+Science+%7C+Penetration+Testing;Building+Intelligent+%26+Secure+Systems" alt="Typing SVG" />
 
-  <br><br>
+# Hi, I'm **Shivam Kumar** 👋
 
-  <img src="https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile+Views&color=00c7b7&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=flat-square&color=00c7b7" alt="Followers"/>
-  
+**Aspiring AI/ML Engineer & Cybersecurity Enthusiast**  
+Building intelligent systems. Learning how to secure them.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=00C7B7&center=true&vCenter=true&width=680&lines=Python+%7C+PyTorch+%7C+Deep+Learning;LLMs+%7C+Data+Science+%7C+SQL;Penetration+Testing+%7C+Linux+%7C+Web+Security;Self-driven+learner+from+Motihari%2C+Bihar" alt="Typing SVG" />
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile+Views&color=00c7b7&style=flat-square)](https://github.com/shivamkumar98017)
+[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=flat-square&color=00c7b7)](https://github.com/shivamkumar98017)
+
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Shivam Kumar** from **Motihari, Bihar** — an aspiring **AI/ML Engineer** with a strong interest in **Cybersecurity**.
+I'm **Shivam Kumar** from **Motihari, Bihar** — a focused and self-driven learner building strong foundations in **Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-I enjoy building intelligent systems and understanding how to secure them. Currently focused on:
+I believe the future belongs to people who can both **build intelligent systems** and **understand how to protect them**. That combination is what I am deliberately developing.
 
-- 🧠 Deep Learning, LLMs & PyTorch
-- 📊 Data Science, EDA & Advanced SQL
-- 🔐 Penetration Testing, Linux & Web Security
-- 🐍 Writing clean, practical Python code
+**What I care about:**
+- Writing clean, practical Python code
+- Understanding data deeply (EDA, SQL, feature engineering)
+- Learning Deep Learning & LLMs the right way (not just tutorials)
+- Building security mindset (Linux, networking, web security, ethical hacking)
 
-> **"Build smart. Secure everything."**
+> *"Build smart. Secure everything."*
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-#### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql&theme=dark" />
-</p>
+**Languages & Core Tools**  
+`Python` · `SQL` · `Linux` · `Bash` · `Git` · `Jupyter`
 
-#### AI / ML / Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**AI / ML / Data**  
+`PyTorch` · `NumPy` · `Pandas` · `Scikit-learn` · `EDA` · `Feature Engineering`
 
-#### Cybersecurity
+**Cybersecurity**  
 `Kali Linux` · `Nmap` · `Burp Suite` · `OWASP Top 10` · `Networking` · `Web Security`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,pytorch&theme=dark" />
+</p>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| **[Pandas-EDA-Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice)** | Complete hands-on EDA practice — cleaning, transformation, GroupBy, joins & case studies | Python · Pandas |
-| **[numpy-playground](https://github.com/shivamkumar98017/numpy-playground)** | Full NumPy practice — arrays, broadcasting, slicing & matrix operations | Python · NumPy |
-| **[py-aiml-foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** | Advanced Python concepts specifically designed for AI/ML foundations | Python |
-| **[ecommerce-sql-analysis](https://github.com/shivamkumar98017/ecommerce-sql-analysis)** | Advanced SQL analytics on Employee, Customer, Sales & Payment data | SQL · Joins · Subqueries |
-| **[SQL](https://github.com/shivamkumar98017/SQL)** | Complete SQL practice (SELECT, JOIN, GROUP BY, HAVING, Subqueries) | SQL |
-| **[Python-Essential](https://github.com/shivamkumar98017/Python-Essential)** | Python fundamentals + beginner projects (Google Colab) | Python |
+These repositories show my consistent practice and growing depth in the fundamentals that actually matter:
+
+| Project | What it demonstrates | Stack |
+|:--------|:---------------------|:------|
+| **[py-aiml-foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** | Advanced Python concepts specifically structured for AI/ML (OOP, data structures, clean code) | Python |
+| **[Pandas-EDA-Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice)** | Complete hands-on Exploratory Data Analysis — cleaning, transformation, GroupBy, joins & case studies | Python · Pandas |
+| **[numpy-playground](https://github.com/shivamkumar98017/numpy-playground)** | Deep practice of NumPy — arrays, broadcasting, slicing, matrix operations | Python · NumPy |
+| **[SQL](https://github.com/shivamkumar98017/SQL)** | Solid SQL practice (SELECT, JOINs, GROUP BY, HAVING, Subqueries) | SQL |
+| **[Python-Essential](https://github.com/shivamkumar98017/Python-Essential)** | Python fundamentals + beginner projects built in Google Colab | Python |
+
+> Every project is intentionally focused on **fundamentals first**. I believe strong basics beat shallow advanced projects.
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Current Learning Focus
+
+I'm currently deepening these areas with clear goals:
+
+- **Large Language Models** — understanding architecture, fine-tuning concepts & prompt engineering
+- **Deep Learning with PyTorch** — building models from scratch, not just using high-level APIs
+- **Advanced Data Analysis** — feature engineering, statistical thinking, real datasets
+- **Ethical Hacking & Penetration Testing** — practical labs + security mindset
+- Building end-to-end projects that combine **AI + Security**
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <br>
@@ -74,42 +90,37 @@ I enjoy building intelligent systems and understanding how to secure them. Curre
   <img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" />
 </div>
 
-<br>
+---
+
+### 🏆 Why this profile matters for academic selection
+
+- **Consistent self-learning** from a tier-2/3 city background
+- Clear focus on **AI/ML + Cybersecurity** (rare and high-demand combination)
+- Projects show **discipline in fundamentals** rather than random tutorials
+- Actively building a public body of work that can be reviewed
+- Ready to take on rigorous academic programs and research-oriented learning
+
+---
+
+### 📫 Connect with me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+**Email:** [shivamk34442@gmail.com](mailto:shivamk34442@gmail.com)  
+**Location:** Motihari, Bihar, India  
+**Instagram:** [shivamkumar98017](https://www.instagram.com/shivamkumar98017/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-shivamkumar98017-181717?style=for-the-badge&logo=github)](https://github.com/shivamkumar98017)
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar98017&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+**Thanks for visiting!**  
+I'm always open to learning opportunities, mentorship, and academic guidance.
+
+⭐ Feel free to explore the repositories and share feedback.
+
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shivamkumar98017/shivamkumar98017/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🎯 Currently Learning & Exploring
-
-- Large Language Models (LLMs) & Prompt Engineering
-- Deep Learning with **PyTorch**
-- Advanced Data Analysis & Feature Engineering
-- Ethical Hacking & Penetration Testing
-- Building real-world AI + Security projects
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-  <a 
