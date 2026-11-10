@@ -1,121 +1,73 @@
-<div align="center">
+# 👋 Hi, I'm Shivam Kumar
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar;AI%2FML+Engineer+%26+Cybersecurity+Enthusiast;LLMs+%E2%80%A2+Deep+Learning+%E2%80%A2+Penetration+Testing;Building+secure+%26+intelligent+systems;Always+learning%2C+always+building" alt="Typing SVG" />
+### Python Developer | Data Science & AI/ML Enthusiast | Cybersecurity Explorer
 
-<br>
+I enjoy working with data, writing Python code, and exploring how intelligent and secure systems are built.
 
-<!-- Waving Hand Animation -->
-<img src="https://media.giphy.com/media/hvRJCLHzifpnr/giphy.gif" width="35" alt="Waving Hand" />
-
-<br><br>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
+- 🐍 Working with **Python, NumPy, Pandas**
+- 🗄️ Practicing **SQL** and data analysis
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🔐 Exploring **Cybersecurity and Kali Linux**
+- 📊 Interested in **Data Science, EDA, and problem-solving**
+- 🤝 Open to collaborating on interesting Python, Data Science, and AI projects
 
 ---
 
-### 👨‍💻 About Me
+## 🧰 Tech Stack
 
-I'm **Shivam Kumar**, a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** from Motihari, Bihar (India).
+**Languages & Data**
 
-I have completed intensive upskilling programs in **AI & Machine Learning** and **Cyber Security with AI**, focusing on building intelligent systems and securing them.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 🔭 Completed **AI & Machine Learning** (Python, SQL, NumPy, Pandas, Classical ML, Deep Learning, GenAI, RAG & Agents)
-- 🛡️ Completed **Cyber Security with AI** (Networking, Linux, Web App Security, OWASP, Burp Suite, Recon, Penetration Testing)
-- 🌱 Currently exploring **Agentic AI**, **LLM Security**, and advanced **Penetration Testing**
-- 👯 Looking to collaborate on **AI/ML** and **Cybersecurity** projects
-- 💬 Ask me about **Python, PyTorch, Burp Suite, Nmap, OWASP Top 10, RAG, LLMs**
-- 📫 Reach me: **shivamk34442@gmail.com**
-- ⚡ Fun fact: Lifelong learner who turns ideas into secure & intelligent code
+**Tools & Environment**
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- Contribution Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10" alt="Contribution Graph" />
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🏆 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :-----: | :---------: | :--------: |
-| [**py-aiml-foundations**](https://github.com/shivamkumar98017/py-aiml-foundations) | Advanced Python concepts for building strong AI/ML foundations | Python, Jupyter |
-| [**Pandas-EDA-Practice**](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Hands-on Pandas practice with data loading, cleaning, GroupBy, joins & EDA case studies | Pandas, Python |
-| [**numpy-playground**](https://github.com/shivamkumar98017/numpy-playground) | NumPy playground for arrays, slicing, broadcasting & matrix operations | NumPy |
-| [**Python-Essential**](https://github.com/shivamkumar98017/Python-Essential) | Beginner to intermediate Python practice notebooks & projects | Python |
-| [**SQL**](https://github.com/shivamkumar98017/SQL) | SQL practice – SELECT, JOINs, GROUP BY, Subqueries & more | SQL |
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,git,github,vscode,linux,bash&perline=9" />
-</p>
-
-**Cybersecurity & Security Tools**  
-`Burp Suite` · `Nmap` · `Wireshark` · `Metasploit` · `OWASP ZAP` · `Kali Linux` · `Hashcat` · `John the Ripper` · `SQLMap` · `Frida`
-
-**AI / ML**  
-`PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` · `RAG` · `LangChain` · `Prompt Engineering` · `LLMs`
+| Project | Description | Technologies |
+|---|---|---|
+| [Pandas EDA Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Data analysis and Pandas practice | Python, Pandas |
+| [NumPy Playground](https://github.com/shivamkumar98017/numpy-playground) | Arrays, slicing, broadcasting and numerical operations | Python, NumPy |
+| [Python Essential](https://github.com/shivamkumar98017/Python-Essential) | Python concepts and practice notebooks | Python |
+| [SQL](https://github.com/shivamkumar98017/SQL) | SQL queries and database practice | SQL |
+| [Python AI/ML Foundations](https://github.com/shivamkumar98017/py-aiml-foundations) | Python concepts for AI/ML foundations | Python |
 
 ---
 
-### 🎓 Courses Completed
+## 📊 GitHub Analytics
 
-- **AI & Machine Learning** (Earners Upskilling Program) – Python → SQL → NumPy → Pandas → Classical ML → Deep Learning → GenAI → RAG & Agents
-- **Cyber Security with AI** – Networking, Linux, Web App Security, OWASP Top 10, Recon, Penetration Testing, Burp Suite, Mobile Security & more
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🔗 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shivam-kumar-b24677431">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/shivamkumar98017">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/shivamkumar98017">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:shivamk34442@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true)
 
 ---
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkumar98017&theme=tokyonight" alt="Profile Details" />
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkumar98017&theme=tokyonight" alt="Stats Card" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkumar98017&theme=tokyonight" alt="Repos per Language" />
-</div>
+## 📈 Contribution Activity
 
-<br>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&theme=tokyo-night&hide_border=true)
 
-<div align="center">
-<b>⭐ Thanks for visiting! Feel free to star my repositories</b>
-</div>
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamkumar98017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-b24677431)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivamkumar98017)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamk34442@gmail.com)
+
+---
+
+### 💡 "Build. Learn. Experiment. Repeat."
+
+⭐ If you find my work interesting, feel free to explore my repositories and leave a star!
