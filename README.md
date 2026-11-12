@@ -92,16 +92,6 @@ I'm currently deepening these areas with clear goals:
 
 ---
 
-### 🏆 Why this profile matters for academic selection
-
-- **Consistent self-learning** from a tier-2/3 city background
-- Clear focus on **AI/ML + Cybersecurity** (rare and high-demand combination)
-- Projects show **discipline in fundamentals** rather than random tutorials
-- Actively building a public body of work that can be reviewed
-- Ready to take on rigorous academic programs and research-oriented learning
-
----
-
 ### 📫 Connect with me
 
 <div align="center">
