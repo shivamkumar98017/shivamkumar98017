@@ -51,17 +51,19 @@ I believe the future belongs to people who can both **build intelligent systems*
 
 ### 📂 Featured Projects
 
-These repositories show my consistent practice and growing depth in the fundamentals that actually matter:
+These repositories show my consistent practice and growing depth — from strong fundamentals to building models from scratch:
 
 | Project | What it demonstrates | Stack |
 |:--------|:---------------------|:------|
-| **[py-aiml-foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** | Advanced Python concepts specifically structured for AI/ML (OOP, data structures, clean code) | Python |
+| **[hindi-character-transformer](https://github.com/shivamkumar98017/hindi-character-transformer)** | Character-level Transformer LM for Hindi built completely from scratch (Multi-Head Attention, causal masking) | Python · PyTorch |
+| **[tiny-gpt](https://github.com/shivamkumar98017/tiny-gpt)** | Minimal GPT-style language model implemented from scratch in pure PyTorch | Python · PyTorch |
+| **[py-aiml-foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** | Advanced Python concepts structured specifically for AI/ML (OOP, data structures, clean code) | Python |
 | **[Pandas-EDA-Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice)** | Complete hands-on Exploratory Data Analysis — cleaning, transformation, GroupBy, joins & case studies | Python · Pandas |
 | **[numpy-playground](https://github.com/shivamkumar98017/numpy-playground)** | Deep practice of NumPy — arrays, broadcasting, slicing, matrix operations | Python · NumPy |
-| **[SQL](https://github.com/shivamkumar98017/SQL)** | Solid SQL practice (SELECT, JOINs, GROUP BY, HAVING, Subqueries) | SQL |
+| **[SQL](https://github.com/shivamkumar98017/SQL)** | Solid SQL practice (SELECT, JOINs, GROUP BY, HAVING, Window Functions) | SQL |
 | **[Python-Essential](https://github.com/shivamkumar98017/Python-Essential)** | Python fundamentals + beginner projects built in Google Colab | Python |
 
-> Every project is intentionally focused on **fundamentals first**. I believe strong basics beat shallow advanced projects.
+> Every project is intentionally focused on **fundamentals first**. Strong basics beat shallow advanced projects.
 
 ---
 
