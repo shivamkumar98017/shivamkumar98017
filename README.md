@@ -35,16 +35,27 @@ I believe the future belongs to people who can both **build intelligent systems*
 ### 🛠️ Technical Skills
 
 **Languages & Core Tools**  
-`Python` · `SQL` · `Linux` · `Bash` · `Git` · `Jupyter`
+`Python` · `SQL` · `Linux` · `Bash` · `Git` · `Jupyter` · `VS Code`
 
-**AI / ML / Data**  
-`PyTorch` · `NumPy` · `Pandas` · `Scikit-learn` · `EDA` · `Feature Engineering`
+**AI / ML / Data Science**  
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `PyTorch` · `EDA` · `Feature Engineering` · `Probability & Statistics` · `Classical ML` · `Deep Learning` · `LLMs` · `Prompt Engineering` · `RAG` · `Agents`
 
 **Cybersecurity**  
-`Kali Linux` · `Nmap` · `Burp Suite` · `OWASP Top 10` · `Networking` · `Web Security`
+`Kali Linux` · `Networking (OSI/TCP-IP)` · `Nmap` · `Burp Suite` · `OWASP Top 10` · `Web Security` · `SQL Injection` · `XSS` · `Cryptography Basics` · `Penetration Testing` · `Threat Modelling`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,pytorch,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP">
 </p>
 
 ---
