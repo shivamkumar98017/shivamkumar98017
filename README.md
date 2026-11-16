@@ -2,15 +2,16 @@
 
 # Hi, I'm **Shivam Kumar** 👋
 
-**Aspiring AI/ML Engineer & Cybersecurity Enthusiast**  
+### Aspiring AI/ML Engineer & Cybersecurity Enthusiast
+
 Building intelligent systems. Learning how to secure them.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=00C7B7&center=true&vCenter=true&width=680&lines=Python+%7C+PyTorch+%7C+Deep+Learning;LLMs+%7C+Data+Science+%7C+SQL;Penetration+Testing+%7C+Linux+%7C+Web+Security;Self-driven+learner+from+Motihari%2C+Bihar" alt="Typing SVG" />
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile+Views&color=00c7b7&style=flat-square)](https://github.com/shivamkumar98017)
-[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=flat-square&color=00c7b7)](https://github.com/shivamkumar98017)
+[![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile+Views&color=00c7b7&style=for-the-badge)](https://github.com/shivamkumar98017)
+[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=for-the-badge&color=00c7b7)](https://github.com/shivamkumar98017)
 
 </div>
 
@@ -48,14 +49,14 @@ I believe the future belongs to people who can both **build intelligent systems*
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
 </p>
 
 ---
@@ -93,8 +94,8 @@ I'm currently deepening these areas with clear goals:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <br>
@@ -112,6 +113,8 @@ I'm currently deepening these areas with clear goals:
 **Email:** [shivamk34442@gmail.com](mailto:shivamk34442@gmail.com)  
 **Location:** Motihari, Bihar, India  
 **Instagram:** [shivamkumar98017](https://www.instagram.com/shivamkumar98017/)
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-shivamkumar98017-181717?style=for-the-badge&logo=github)](https://github.com/shivamkumar98017)
 
