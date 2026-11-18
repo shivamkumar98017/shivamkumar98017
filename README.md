@@ -11,7 +11,8 @@ Building intelligent systems. Learning how to secure them.
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar98017&label=Profile+Views&color=00c7b7&style=for-the-badge)](https://github.com/shivamkumar98017)
-[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=for-the-badge&color=00c7b7)](https://github.com/shivamkumar98017)
+
+[![GitHub followers](https://img.shields.io/github/followers/shivamkumar98017?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00c7b7)](https://github.com/shivamkumar98017)
 
 </div>
 
