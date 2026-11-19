@@ -32,6 +32,22 @@ I believe the future belongs to people who can both **build intelligent systems*
 
 ---
 
+### 📚 Foundation Learning Path (Recommended Sequence)
+
+I follow a strict fundamentals-first approach. Anyone learning with me should follow this exact order:
+
+| Step | Repository | What you will learn |
+|:----:|------------|---------------------|
+| **01** | **[Python Essentials](https://github.com/shivamkumar98017/Python-Essential)** | Core Python — variables, operators, conditionals, loops, functions |
+| **02** | **[Python for AI/ML Foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** | Intermediate + Advanced Python (OOP, comprehensions, functional programming, file handling) |
+| **03** | **[SQL Practice](https://github.com/shivamkumar98017/SQL)** | Analytical SQL — SELECT, JOINs, GROUP BY, HAVING, Window Functions |
+| **04** | **[NumPy Playground](https://github.com/shivamkumar98017/numpy-playground)** | Numerical computing — arrays, broadcasting, vectorization, aggregations |
+| **05** | **[Pandas EDA Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice)** | Data Analysis & EDA — cleaning, filtering, GroupBy, missing data |
+
+> After completing this path, move to model-building repositories (`tiny-gpt`, `hindi-character-transformer`).
+
+---
+
 ### 🛠️ Technical Skills
 
 **Languages & Core Tools**  
