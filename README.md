@@ -143,7 +143,7 @@ I'm currently deepening these areas with clear goals:
       <td align="center">
         <img src="https://img.shields.io/github/followers/shivamkumar98017?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2f80ed" alt="GitHub followers" />
         <br><br>
-        <img src="https://img.shields.io/github/repos/shivamkumar98017?label=Public%20Repositories&style=for-the-badge&logo=github&color=00c7b7" alt="Public repositories" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshivamkumar98017&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=00c7b7" alt="Live public repository count" />
       </td>
     </tr>
   </table>
