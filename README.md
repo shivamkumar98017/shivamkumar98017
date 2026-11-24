@@ -112,11 +112,11 @@ I'm currently deepening these areas with clear goals:
 
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Live GitHub stats including commits and stars" />
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkumar98017&theme=tokyonight" alt="GitHub contribution overview" />
       </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="Live GitHub contribution streak" />
+      <td align="center" width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
       </td>
     </tr>
   </table>
@@ -141,9 +141,9 @@ I'm currently deepening these areas with clear goals:
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkumar98017&theme=tokyonight&utcOffset=5.5" alt="Productive coding time in IST" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/followers/shivamkumar98017?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2f80ed" alt="Live GitHub followers" />
+        <img src="https://img.shields.io/github/followers/shivamkumar98017?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2f80ed" alt="GitHub followers" />
         <br><br>
-        <img src="https://img.shields.io/github/repos/shivamkumar98017?label=Public%20Repositories&style=for-the-badge&logo=github&color=00c7b7" alt="Live public repository count" />
+        <img src="https://img.shields.io/github/repos/shivamkumar98017?label=Public%20Repositories&style=for-the-badge&logo=github&color=00c7b7" alt="Public repositories" />
       </td>
     </tr>
   </table>
