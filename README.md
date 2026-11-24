@@ -110,19 +110,24 @@ I'm currently deepening these areas with clear goals:
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkumar98017&theme=tokyonight" alt="GitHub contribution and profile activity" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Live GitHub stats including commits and stars" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="Live GitHub contribution streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img width="100%" src="https://ghchart.rshah.org/00c7b7/shivamkumar98017" alt="GitHub contribution calendar heatmap" />
 
   <br><br>
 
   <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkumar98017&theme=tokyonight" alt="GitHub statistics" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkumar98017&theme=tokyonight&utcOffset=5.5" alt="GitHub productive time in IST" />
-      </td>
-    </tr>
     <tr>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkumar98017&theme=tokyonight" alt="Languages by repository" />
@@ -131,11 +136,17 @@ I'm currently deepening these areas with clear goals:
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkumar98017&theme=tokyonight" alt="Languages by commits" />
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkumar98017&theme=tokyonight&utcOffset=5.5" alt="Productive coding time in IST" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/shivamkumar98017?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2f80ed" alt="Live GitHub followers" />
+        <br><br>
+        <img src="https://img.shields.io/github/repos/shivamkumar98017?label=Public%20Repositories&style=for-the-badge&logo=github&color=00c7b7" alt="Live public repository count" />
+      </td>
+    </tr>
   </table>
-
-  <br>
-
-  <img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
