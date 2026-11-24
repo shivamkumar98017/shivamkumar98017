@@ -109,14 +109,13 @@ I'm currently deepening these areas with clear goals:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkumar98017&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub stats and commits" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar98017&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Most used languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&theme=tokyo-night&hide_border=true&area=true" alt="GitHub commit activity graph" />
 </div>
 
 <br>
