@@ -145,3 +145,11 @@ I'm always open to learning opportunities, mentorship, and academic guidance.
 ⭐ Feel free to explore the repositories and share feedback.
 
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+- **Instagram:** [www.instagram.com/codes.flow](https://www.instagram.com/codes.flow/)
+- **LinkedIn:** [www.linkedin.com/in/shivam-kumar-b24677431](https://www.linkedin.com/in/shivam-kumar-b24677431/)
+- **X:** [x.com/shivamk344007](https://x.com/shivamk344007)
