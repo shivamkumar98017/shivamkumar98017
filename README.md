@@ -123,7 +123,7 @@ I'm currently deepening these areas with clear goals:
 
   <br>
 
-  <img width="100%" src="https://ghchart.rshah.org/00c7b7/shivamkumar98017" alt="GitHub contribution calendar heatmap" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&bg_color=0d1117&color=58a6ff&line=00c7b7&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" />
 
   <br><br>
 
