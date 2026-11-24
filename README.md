@@ -127,8 +127,9 @@ I'm currently deepening these areas with clear goals:
 
 **Email:** [shivamk34442@gmail.com](mailto:shivamk34442@gmail.com)  
 **Location:** Motihari, Bihar, India  
-**Instagram:** [shivamkumar98017](https://www.instagram.com/shivamkumar98017/)
-
+**Instagram:** [shivamkumar98017](https://www.instagram.com/shivamkumar98017/)  
+**LinkedIn:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-b24677431/)  
+**X:** [@shivamk344007](https://x.com/shivamk344007)
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-shivamkumar98017-181717?style=for-the-badge&logo=github)](https://github.com/shivamkumar98017)
@@ -145,11 +146,3 @@ I'm always open to learning opportunities, mentorship, and academic guidance.
 ⭐ Feel free to explore the repositories and share feedback.
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-- **Instagram:** [www.instagram.com/codes.flow](https://www.instagram.com/codes.flow/)
-- **LinkedIn:** [www.linkedin.com/in/shivam-kumar-b24677431](https://www.linkedin.com/in/shivam-kumar-b24677431/)
-- **X:** [x.com/shivamk344007](https://x.com/shivamk344007)
