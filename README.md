@@ -110,13 +110,30 @@ I'm currently deepening these areas with clear goals:
 
 <div align="center">
 
-  <img width="98%" src="https://ghchart.rshah.org/00c7b7/shivamkumar98017" alt="GitHub contribution calendar for Shivam Kumar" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkumar98017&theme=tokyonight" alt="GitHub contribution and profile activity" />
 
   <br><br>
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar98017&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkumar98017&theme=tokyonight" alt="GitHub statistics" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkumar98017&theme=tokyonight&utcOffset=5.5" alt="GitHub productive time in IST" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkumar98017&theme=tokyonight" alt="Languages by repository" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkumar98017&theme=tokyonight" alt="Languages by commits" />
+      </td>
+    </tr>
+  </table>
 
-  <br><br>
+  <br>
 
   <img src="https://streak-stats.demolab.com?user=shivamkumar98017&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
