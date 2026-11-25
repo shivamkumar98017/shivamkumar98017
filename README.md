@@ -103,6 +103,7 @@ I'm currently deepening these areas with clear goals:
 - **Advanced Data Analysis** — feature engineering, statistical thinking, real datasets
 - **Ethical Hacking & Penetration Testing** — practical labs + security mindset
 - Building end-to-end projects that combine **AI + Security**
+- Exploring **GitHub Actions** for CI/CD and automation workflows
 
 ---
 
